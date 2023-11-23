@@ -1,5 +1,5 @@
-### new in this thing
-## mathematics student, little by little
+## new in this thing
+### mathematics student, little by little
 
 <!--
 **osiarap55/osiarap55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
