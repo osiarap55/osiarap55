@@ -1,19 +1,13 @@
 ## new in this thing
 ### mathematics student, little by little
-# _______  _____ _____ 
-# | ____\ \/ /_ _|_   _|
-# |  _|  \  / | |  | |  
-# | |___ /  \ | |  | |  
-# |_____/_/\_\___| |_|  
-                      
-
+ 
 <!--
 **osiarap55/osiarap55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+###- 🔭 I’m currently working on anything... looking for job but not much stress
+###- 🌱 I’m currently learning programming, linux, configs...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
