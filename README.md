@@ -1,5 +1,5 @@
-## new in this thing
-### mathematics student, little by little
+### trying to get good with bash scripting, python, and different frameworks... trying to applied my knowledge in mathematics...
+### mathematics student, living In Ireland, working building servers for AWS.
  
 <!--
 **osiarap55/osiarap55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
