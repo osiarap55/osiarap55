@@ -1,5 +1,4 @@
-#### learning bash scripting, python, and different things...
-#### mathematics student, living In Ireland, working Industrial area.
+#### MADE
  
 <!--
 **osiarap55/osiarap55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
